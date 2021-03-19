@@ -94,7 +94,7 @@ In 1954, Hans Luhn of IBM proposed an algorithm for validating credit card numbe
 
  (i) Double every second digit from right to left. If doubling of a digit results in a two-digit number, add up the two digits to get a single-digit number
 
-<img src="..\assets\Q5 Card Number.svg" alt="Q5_card_numbers" style="zoom:50%;" />
+<img src=".\assets\Q5 Card Number.svg" alt="Q5_card_numbers" style="zoom:50%;" />
 
  (ii) Now add all single-digit numbers from Step (i)
 
